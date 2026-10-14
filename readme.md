@@ -16,13 +16,7 @@ The site is built from scratch focusing on semantic structure, clean visual hier
 **Web Development**
 * HTML5 & Semantic Web
 * CSS3 (Grid, Flexbox, Responsive Design)
-* JavaScript Basics (DOM Manipulation, Canvas)
 * Web Accessibility Basics
-
-**Programming & Data Science**
-* C++ & Data Structures/Algorithms (DSA)
-* Python
-* Scikit-Learn & HuggingFace Transformers
 
 **Tools**
 * Git & GitHub
